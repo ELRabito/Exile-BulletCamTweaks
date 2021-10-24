@@ -9,8 +9,8 @@
 - If out of range there is a red marker at the position were the camera transmission was lost.
 
 # Installation
-- 1 Make a CfgExileCustomCode override for ExileClient_system_bulletCam_thread.sqf
-- 2 Done
+- 1 - Make a CfgExileCustomCode override for ExileClient_system_bulletCam_thread.sqf
+- 2 - Done
 
 # Video 1 (Marker).
 [![Watch the video](https://img.youtube.com/vi/94jcb9AvZYw/maxresdefault.jpg)](https://www.youtube.com/watch?v=94jcb9AvZYw)
