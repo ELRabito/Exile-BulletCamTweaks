@@ -12,9 +12,8 @@
 1. Make a CfgExileCustomCode override for ExileClient_system_bulletCam_thread.sqf
 2. Done
 
-https://www.youtube.com/watch?v=94jcb9AvZYw
 
-https://youtu.be/nwTi2yAEzIc
+[![Watch the video](https://img.youtube.com/vi/94jcb9AvZYw/maxresdefault.jpg)](https://www.youtube.com/watch?v=94jcb9AvZYw)
 
+[![Watch the video](https://img.youtube.com/vi/nwTi2yAEzIc/maxresdefault.jpg)](https://www.youtube.com/watch?v=nwTi2yAEzIc)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
