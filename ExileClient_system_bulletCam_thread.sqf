@@ -28,8 +28,8 @@ if (_projectile call ExileClient_util_world_isInTerritory) exitWith
 	_status ctrlSetTextColor [0.91, 0, 0, 1];
 	_status ctrlCommit 0;
 	true
-	
 };
+
 ExileClientBulletCamera = "camera" camCreate (getPos _projectile);
 ExileClientBulletCamera camSetFocus [50, 1];
 ExileClientBulletCamera camCommit 0;
