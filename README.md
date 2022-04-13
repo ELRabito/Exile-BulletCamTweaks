@@ -18,3 +18,4 @@
 # Video 2 (Nerf).
 [![Watch the video](https://img.youtube.com/vi/nwTi2yAEzIc/maxresdefault.jpg)](https://www.youtube.com/watch?v=nwTi2yAEzIc)
 
+# License Info: If you server is named KFB (Kentucky Fried Bambi) you have no permission to use this. Any violation will result in a DMCA.
